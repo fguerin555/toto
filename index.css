@@ -1,10 +1,10 @@
 @font-face {
   font-family: "source-sans-pro";
-  src: url(./assets/fonts/source-sans-pro.light.ttf);
+  src: url(./fonts/source-sans-pro.light.ttf);
 }
 @font-face {
   font-family: "source-sans-pro-reg";
-  src: url(./assets/fonts/source-sans-pro.regular.ttf);
+  src: url(./fonts/source-sans-pro.regular.ttf);
 }
 #page1,
 #page2,
